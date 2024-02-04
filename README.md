@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @TheParanoidEngineer
+- 👀 I’m interested in ... 3D Printing and Electrical Engineering
+- 🌱 I’m currently learning ... How bad of a coder I really am
+- 💞️ I’m looking to collaborate on ... 3D Printing Related Software/Macros
+- 📫 How to reach me ... Contact me through GitHub
+- 😄 Pronouns: ... He/Him/His
+- ⚡ Fun fact: ... I enjoy exercising 
